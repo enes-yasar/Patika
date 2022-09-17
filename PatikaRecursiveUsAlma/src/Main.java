@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Main {
 	static int usAlma(int taban, int us) {
-		int sonuc = 0;
 		if (us == 0) {
 			return 1;
 		}
